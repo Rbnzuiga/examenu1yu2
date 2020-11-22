@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/examenu1yu2/static/css/main.af3aeb7f.chunk.css",
+    "main.js": "/examenu1yu2/static/js/main.90ae9ef7.chunk.js",
+    "main.js.map": "/examenu1yu2/static/js/main.90ae9ef7.chunk.js.map",
+    "runtime-main.js": "/examenu1yu2/static/js/runtime-main.c8b68d60.js",
+    "runtime-main.js.map": "/examenu1yu2/static/js/runtime-main.c8b68d60.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/examenu1yu2/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2ce43a24.chunk.js": "/examenu1yu2/static/js/2.2ce43a24.chunk.js",
+    "static/js/2.2ce43a24.chunk.js.map": "/examenu1yu2/static/js/2.2ce43a24.chunk.js.map",
+    "static/js/3.359d5e67.chunk.js": "/examenu1yu2/static/js/3.359d5e67.chunk.js",
+    "static/js/3.359d5e67.chunk.js.map": "/examenu1yu2/static/js/3.359d5e67.chunk.js.map",
+    "index.html": "/examenu1yu2/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/examenu1yu2/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.af3aeb7f.chunk.css.map": "/examenu1yu2/static/css/main.af3aeb7f.chunk.css.map",
+    "static/js/2.2ce43a24.chunk.js.LICENSE.txt": "/examenu1yu2/static/js/2.2ce43a24.chunk.js.LICENSE.txt",
+    "static/media/logo-buen-fin-256.5a58183c.png": "/examenu1yu2/static/media/logo-buen-fin-256.5a58183c.png",
+    "static/media/logo.103b5fa1.svg": "/examenu1yu2/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b68d60.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2ce43a24.chunk.js",
+    "static/css/main.af3aeb7f.chunk.css",
+    "static/js/main.90ae9ef7.chunk.js"
+  ]
+}
